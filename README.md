@@ -1,2 +1,2 @@
 # random-color-generator
-Generate diffent type of color code!
+Generate different types of color code randomly with pure vanilla javascript ❤️
